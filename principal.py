@@ -1,2 +1,4 @@
-if __name__ == '__main__':
-	print("Principal"))
+
+
+if __name__ == "__main__":
+	print("Principal")
